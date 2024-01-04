@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-Hello, I'm \[Your Name\] - a passionate frontend web developer with a fresh degree in Information Technology. Proficient in React.js, JavaScript, CSS, and HTML, I'm dedicated to crafting seamless and visually appealing user experiences. Eager to contribute innovative solutions to the ever-evolving web development landscape. Let's code something amazing together! 💻✨
+Hello, I'm Hussain Ali,  a passionate frontend web developer with a fresh degree in Information Technology. Proficient in React.js, JavaScript, CSS, and HTML, I'm dedicated to crafting seamless and visually appealing user experiences. Eager to contribute innovative solutions to the ever-evolving web development landscape. Let's code something amazing together! 💻✨
 
 * 🌍  I'm based in Sindh, Pakistan
 * 🖥️  See my portfolio at [hussain-dev.tech](http://hussain-dev.tech)
